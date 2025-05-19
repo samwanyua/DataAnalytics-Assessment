@@ -1,5 +1,3 @@
--- Assessment_Q1.sql
-
 SHOW DATABASES;
 
 use adashi_staging;
